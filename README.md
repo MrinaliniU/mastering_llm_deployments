@@ -2,14 +2,16 @@
 
 A comprehensive course on deploying Large Language Models (LLMs) efficiently and cost-effectively.
 
-## 🎯 Course Objectives
+![Gemini_Generated_Image_6winox6winox6win](images/Gemini_Generated_Image_6winox6winox6win.png)
+
+## Course Objectives
 
 - Load and fine-tune pre-trained transformer models
 - Apply optimization techniques: distillation, pruning, quantization
 - Deploy models using FastAPI, Gradio, Docker, and AWS ECS
 - Implement production best practices
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Option 1: Google Colab (Recommended)
 Open any notebook directly in Colab:
@@ -23,7 +25,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-## 📚 Course Structure
+## Course Structure
 
 | Module | Topic | Notebooks |
 |--------|-------|-----------|
@@ -34,13 +36,13 @@ jupyter lab
 | 04 | Deployment | 4 |
 | 05 | Capstone | 1 |
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - Basic understanding of machine learning
 - Familiarity with PyTorch (helpful but not required)
 
-## 📦 Key Dependencies
+## Key Dependencies
 
 - `transformers` - Hugging Face Transformers
 - `torch` - PyTorch
@@ -48,6 +50,3 @@ jupyter lab
 - `gradio` - Web UI framework
 - `fastapi` - REST API framework
 
-## 📝 License
-
-See [LICENSE](../LICENSE) for details.
